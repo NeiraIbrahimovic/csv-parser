@@ -1,0 +1,34 @@
+[
+  {
+    "path": "src/portfolio/algorithms/CharacterReader.java",
+    "recovered_source_sha256": "9840f11d9ab986b7570a83db41ff602feec84986764e9570f75a67e8478b5d73"
+  },
+  {
+    "path": "src/portfolio/algorithms/CSVFormatException.java",
+    "recovered_source_sha256": "b8431e4b1b5604360f60be44aa7a492d6b29891046f1379e60841433c4fc1f4e"
+  },
+  {
+    "path": "src/portfolio/algorithms/CSVReader.java",
+    "recovered_source_sha256": "88e8625ecc9d1b7d7970a9b5121b45c3e3f63edda76a1ad2e8536ae7710af932"
+  },
+  {
+    "path": "src/portfolio/algorithms/CSVReaderTest.java",
+    "recovered_source_sha256": "1c460d5634e93f2ca213292248ecba23adc7291cbae9073ab0976d179497c078"
+  },
+  {
+    "path": "src/portfolio/algorithms/easy1.csv",
+    "recovered_source_sha256": "1973a1320f14744611ae819da75fd963c76580aa1155aa813d6877883ca48e98"
+  },
+  {
+    "path": "src/portfolio/algorithms/easy2.csv",
+    "recovered_source_sha256": "f0034323bfbf00c2814f7a46757b8ff8fb5035fd1867c8a171e34c380bccff66"
+  },
+  {
+    "path": "src/portfolio/algorithms/easy3.csv",
+    "recovered_source_sha256": "093b242b2dc93c913162664325414ffe4b733d605fb68ba254a82c2c54819008"
+  },
+  {
+    "path": "src/portfolio/algorithms/medium1.csv",
+    "recovered_source_sha256": "d8d070d05bed0954b8446933709194c4d2fa7c9d1e74f7a5354c170a8234b966"
+  }
+]
