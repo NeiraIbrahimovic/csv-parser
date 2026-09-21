@@ -1,0 +1,5 @@
+target/
+*.class
+*.log
+*log.txt
+__pycache__/
