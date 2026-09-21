@@ -1,0 +1,11 @@
+{
+  "project": "csv-parser",
+  "compile_exit": 0,
+  "test_exit": 0,
+  "passed": [
+    "5"
+  ],
+  "failed": [
+    "0"
+  ]
+}
